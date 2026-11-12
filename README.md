@@ -1,6 +1,7 @@
 # HORROR ARCHIVE｜私人恐怖電影檔案館
 
 > 恐懼，是另一種迷戀。
+🎬 **[點此進入恐怖電影檔案館](https://vitas9313-sketch.github.io/horror-archive/)**
 
 TAICA 第九週 `AGENTS.md` 專案：用固定的資料欄位與統一樣式收錄恐怖電影。**保留原本的高級暗黑電影誌風格**；新增內容不需要重畫卡片。
 
